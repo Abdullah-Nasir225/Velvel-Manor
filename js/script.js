@@ -66,6 +66,7 @@ const ham =  document.querySelector('.hamburgers');
 ham.addEventListener('click',(()=>{
     const nav = document.querySelector('#nav');
     nav.classList.toggle('act');
+    document.body.classList.toggle('fix');
 }))
 
 
