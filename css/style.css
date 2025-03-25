@@ -864,3 +864,6 @@ color: #d5193b;
 .pin{
   color: #d5193b;
 }
+.fix{
+		position:fixed;
+}
